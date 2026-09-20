@@ -1,0 +1,5 @@
+Số sản phẩm: 1
+Tổng giá trị tồn kho: 2,000,000 VND
+Giá trị tồn kho cao nhất: SP01 - bia: 100,000 x 20 = 2,000,000 VND
+Danh sách:
+SP01 - bia: 100,000 x 20 = 2,000,000 VND
